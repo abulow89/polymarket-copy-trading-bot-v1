@@ -12,7 +12,7 @@ This project is a Polymarket Copy Trading Bot that allows users to automatically
 1. Install latest version of Node.js and npm
 2. Navigate to the project directory:
     ```bash
-    cd polymarket_copy_trading_bot
+    cd polymarket-copy-trading-bot-v1
     ```
 3. Create `.env` file:
     ```bash
